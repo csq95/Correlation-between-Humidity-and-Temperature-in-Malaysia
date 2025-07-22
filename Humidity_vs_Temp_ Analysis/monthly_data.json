@@ -1,0 +1,452 @@
+[
+  {
+    "state": "johor",
+    "month": "April",
+    "avg_humidity": 81.33,
+    "avg_temperature": 27.78
+  },
+  {
+    "state": "Johor",
+    "month": "February",
+    "avg_humidity": 75.1,
+    "avg_temperature": 26.6
+  },
+  {
+    "state": "Johor",
+    "month": "2025-01",
+    "avg_humidity": 80.0,
+    "avg_temperature": 28.1
+  },
+  {
+    "state": "Johor",
+    "month": "June",
+    "avg_humidity": 78.76,
+    "avg_temperature": 28.51
+  },
+  {
+    "state": "johor",
+    "month": "2025-03",
+    "avg_humidity": 80.56,
+    "avg_temperature": 27.89
+  },
+  {
+    "state": "Johor",
+    "month": "2025-05",
+    "avg_humidity": 80.05,
+    "avg_temperature": 28.26
+  },
+  {
+    "state": "Kedah",
+    "month": "04",
+    "avg_humidity": 79.28,
+    "avg_temperature": 28.18
+  },
+  {
+    "state": "Kedah",
+    "month": "February",
+    "avg_humidity": 72.05,
+    "avg_temperature": 27.4
+  },
+  {
+    "state": "Kedah",
+    "month": "January",
+    "avg_humidity": 74.0,
+    "avg_temperature": 27.8
+  },
+  {
+    "state": "Kedah",
+    "month": "June",
+    "avg_humidity": 81.17,
+    "avg_temperature": 27.45
+  },
+  {
+    "state": "kedah",
+    "month": "2025-03",
+    "avg_humidity": 75.31,
+    "avg_temperature": 29.05
+  },
+  {
+    "state": "Kedah",
+    "month": "2025-05",
+    "avg_humidity": 81.16,
+    "avg_temperature": 27.4
+  },
+  {
+    "state": "kelantan",
+    "month": "April",
+    "avg_humidity": 85.2,
+    "avg_temperature": 26.5
+  },
+  {
+    "state": "Kelantan",
+    "month": "February 2025",
+    "avg_humidity": 81.208,
+    "avg_temperature": 25.1
+  },
+  {
+    "state": "Kelantan",
+    "month": "January",
+    "avg_humidity": 81.43,
+    "avg_temperature": 26.69
+  },
+  {
+    "state": "Kelantan",
+    "month": "June",
+    "avg_humidity": 80.23,
+    "avg_temperature": 27.56
+  },
+  {
+    "state": "kelantan",
+    "month": "03",
+    "avg_humidity": 83.04,
+    "avg_temperature": 27.51
+  },
+  {
+    "state": "kelantan",
+    "month": "2025-05",
+    "avg_humidity": 87.34,
+    "avg_temperature": 28.12
+  },
+  {
+    "state": "melaka",
+    "month": "April",
+    "avg_humidity": 83.7,
+    "avg_temperature": 27.6
+  },
+  {
+    "state": "Melaka",
+    "month": "February",
+    "avg_humidity": 76.315,
+    "avg_temperature": 27.021
+  },
+  {
+    "state": "melaka",
+    "month": "2025-01",
+    "avg_humidity": 80.5,
+    "avg_temperature": 27.4
+  },
+  {
+    "state": "melaka",
+    "month": "2025-06",
+    "avg_humidity": 78.0,
+    "avg_temperature": 29.2
+  },
+  {
+    "state": "melaka",
+    "month": "March",
+    "avg_humidity": 80.79,
+    "avg_temperature": 28.05
+  },
+  {
+    "state": "melaka",
+    "month": "2025-05",
+    "avg_humidity": 81.27,
+    "avg_temperature": 28.51
+  },
+  {
+    "state": "negeri sembilan",
+    "month": "04",
+    "avg_humidity": 81.525,
+    "avg_temperature": 27.217
+  },
+  {
+    "state": "negeri sembilan",
+    "month": "February",
+    "avg_humidity": 71.6,
+    "avg_temperature": 27.8
+  },
+  {
+    "state": "negeri sembilan",
+    "month": "2025-01",
+    "avg_humidity": 80.19,
+    "avg_temperature": 28.03
+  },
+  {
+    "state": "negeri sembilan",
+    "month": "2025-06",
+    "avg_humidity": 75.03125,
+    "avg_temperature": 28.2225
+  },
+  {
+    "state": "negeri sembilan",
+    "month": "2025-05",
+    "avg_humidity": 80.36,
+    "avg_temperature": 28.05
+  },
+  {
+    "state": "Pahang",
+    "month": "April",
+    "avg_humidity": 83.81,
+    "avg_temperature": 26.65
+  },
+  {
+    "state": "Pahang",
+    "month": "February",
+    "avg_humidity": 77.47,
+    "avg_temperature": 25.56
+  },
+  {
+    "state": "Pahang",
+    "month": "June",
+    "avg_humidity": 81.04,
+    "avg_temperature": 28.4
+  },
+  {
+    "state": "pahang",
+    "month": "2025-03",
+    "avg_humidity": 81.1025,
+    "avg_temperature": 27.025
+  },
+  {
+    "state": "Pahang",
+    "month": "May",
+    "avg_humidity": 81.55555555555554,
+    "avg_temperature": 27.664285714285715
+  },
+  {
+    "state": "penang",
+    "month": "2025-04",
+    "avg_humidity": 77.15,
+    "avg_temperature": 28.24
+  },
+  {
+    "state": "penang",
+    "month": "February",
+    "avg_humidity": 61.18,
+    "avg_temperature": 27.44
+  },
+  {
+    "state": "Penang",
+    "month": "June",
+    "avg_humidity": 78.84,
+    "avg_temperature": 28.74
+  },
+  {
+    "state": "penang",
+    "month": "2025-03",
+    "avg_humidity": 68.05555555555554,
+    "avg_temperature": 29.20666666666667
+  },
+  {
+    "state": "penang",
+    "month": "2025-05",
+    "avg_humidity": 79.19,
+    "avg_temperature": 28.67
+  },
+  {
+    "state": "Perak",
+    "month": "April",
+    "avg_humidity": 83.065,
+    "avg_temperature": 26.478
+  },
+  {
+    "state": "Perak",
+    "month": "February",
+    "avg_humidity": 77.4,
+    "avg_temperature": 26.5
+  },
+  {
+    "state": "Perak",
+    "month": "2025-01",
+    "avg_humidity": 80.6,
+    "avg_temperature": 26.9
+  },
+  {
+    "state": "Perak",
+    "month": "2025-06",
+    "avg_humidity": 80.04,
+    "avg_temperature": 28.3
+  },
+  {
+    "state": "perak",
+    "month": "March",
+    "avg_humidity": 81.23,
+    "avg_temperature": 27.28
+  },
+  {
+    "state": "perak",
+    "month": "2025-05",
+    "avg_humidity": 80.8,
+    "avg_temperature": 28.0
+  },
+  {
+    "state": "Perlis",
+    "month": "April",
+    "avg_humidity": 79.45,
+    "avg_temperature": 28.39
+  },
+  {
+    "state": "Perlis",
+    "month": "February",
+    "avg_humidity": 71.07,
+    "avg_temperature": 27.2
+  },
+  {
+    "state": "Perlis",
+    "month": "2025-01",
+    "avg_humidity": 75.66,
+    "avg_temperature": 28.24
+  },
+  {
+    "state": "Perlis",
+    "month": "2025-06",
+    "avg_humidity": 81.01,
+    "avg_temperature": 27.73
+  },
+  {
+    "state": "Perlis",
+    "month": "March",
+    "avg_humidity": 73.24,
+    "avg_temperature": 29.17
+  },
+  {
+    "state": "Perlis",
+    "month": "2025-05",
+    "avg_humidity": 81.2,
+    "avg_temperature": 27.0
+  },
+  {
+    "state": "sabah",
+    "month": "2025-04",
+    "avg_humidity": 85.25,
+    "avg_temperature": 27.57
+  },
+  {
+    "state": "Sabah",
+    "month": "February",
+    "avg_humidity": 86.32,
+    "avg_temperature": 27.39
+  },
+  {
+    "state": "Sabah",
+    "month": "January",
+    "avg_humidity": 84.9,
+    "avg_temperature": 27.6
+  },
+  {
+    "state": "sabah",
+    "month": "June",
+    "avg_humidity": 78.14,
+    "avg_temperature": 28.69
+  },
+  {
+    "state": "Sabah",
+    "month": "2025-03",
+    "avg_humidity": 86.56,
+    "avg_temperature": 27.55
+  },
+  {
+    "state": "Sabah",
+    "month": "2025-05",
+    "avg_humidity": 80.41666666666667,
+    "avg_temperature": 28.416666666666668
+  },
+  {
+    "state": "sarawak",
+    "month": "2025-04",
+    "avg_humidity": 87.17,
+    "avg_temperature": 26.6
+  },
+  {
+    "state": "sarawak",
+    "month": "February",
+    "avg_humidity": 92.01,
+    "avg_temperature": 25.57
+  },
+  {
+    "state": "sarawak",
+    "month": "2025-01",
+    "avg_humidity": 89.28,
+    "avg_temperature": 26.55
+  },
+  {
+    "state": "sarawak",
+    "month": "June",
+    "avg_humidity": 84.42,
+    "avg_temperature": 27.39
+  },
+  {
+    "state": "sarawak",
+    "month": "2025-03",
+    "avg_humidity": 89.13,
+    "avg_temperature": 26.5
+  },
+  {
+    "state": "Sarawak",
+    "month": "May",
+    "avg_humidity": 86.26,
+    "avg_temperature": 27.53
+  },
+  {
+    "state": "selangor",
+    "month": "April",
+    "avg_humidity": 79.64,
+    "avg_temperature": 28.01
+  },
+  {
+    "state": "Selangor",
+    "month": "February",
+    "avg_humidity": 72.02,
+    "avg_temperature": 28.25
+  },
+  {
+    "state": "selangor",
+    "month": "2025-01",
+    "avg_humidity": 80.16,
+    "avg_temperature": 27.93
+  },
+  {
+    "state": "selangor",
+    "month": "2025-06",
+    "avg_humidity": 72.055,
+    "avg_temperature": 29.46
+  },
+  {
+    "state": "Selangor",
+    "month": "2025-03",
+    "avg_humidity": 78.12,
+    "avg_temperature": 28.36
+  },
+  {
+    "state": "Selangor",
+    "month": "2025-05",
+    "avg_humidity": 80.10999999999999,
+    "avg_temperature": 28.299999999999997
+  },
+  {
+    "state": "Terengganu",
+    "month": "April",
+    "avg_humidity": 83.28,
+    "avg_temperature": 27.28
+  },
+  {
+    "state": "Terengganu",
+    "month": "February",
+    "avg_humidity": 76.2,
+    "avg_temperature": 26.2
+  },
+  {
+    "state": "Terengganu",
+    "month": "2025-01",
+    "avg_humidity": 78.33,
+    "avg_temperature": 26.3
+  },
+  {
+    "state": "Terengganu",
+    "month": "June",
+    "avg_humidity": 83.402,
+    "avg_temperature": 28.346
+  },
+  {
+    "state": "Terengganu",
+    "month": "March",
+    "avg_humidity": 80.5,
+    "avg_temperature": 27.2
+  },
+  {
+    "state": "Terengganu",
+    "month": "May",
+    "avg_humidity": 84.1,
+    "avg_temperature": 28.6
+  }
+]
